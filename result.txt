@@ -1,0 +1,21 @@
+commit 29aa28f06114801fe5e3e4d0a9092ee9aa6255f2
+Author: Владислав Саинов <vladislavsainov@mail.ru>
+Date:   Mon Sep 28 13:39:39 2026 +0300
+
+    Добавлен файл hello.txt
+
+commit 2b5e51f1c6a6932860db1fb399d9ef914872fd79
+Author: Владислав Саинов <vladislavsainov@mail.ru>
+Date:   Mon Sep 28 13:02:47 2026 +0300
+
+    Добавлен файл test.txt
+origin	https://github.com/vladick1111/lab4_second.git (fetch)
+origin	https://github.com/vladick1111/lab4_second.git (push)
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	result.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
